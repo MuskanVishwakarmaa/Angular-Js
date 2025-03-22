@@ -7,8 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = "Helloworld";
-
-  ngOnInit(): void {
-    this.title = "Hello from BridgeLabz.";
-  }
 }
